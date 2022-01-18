@@ -1,5 +1,7 @@
 {
  "offline": {
+  "db": "http://localhost:8800"
  }, "online": {
+  "db": "https://localhost:8800"
  }
 }
